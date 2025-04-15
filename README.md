@@ -167,11 +167,11 @@ Now press (Ctrl-X) to exit
 >### Note 
 >Warning: MariaDB version ['10.11', '7'] is more than 10.8 which is not yet tested with Frappe Framework.
     
-    bench new-site dcode.com
+    bench new-site idipangkar.io
     
-    bench --site dcode.com add-to-hosts
+    bench --site idipangkar.io add-to-hosts
 
-Open url http://dcode.com:8000 to login 
+Open url http://idipangkar.io:8000 to login 
 
 
 ### STEP 15 install ERPNext latest version in bench & site
