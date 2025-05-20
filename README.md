@@ -20,7 +20,7 @@ A complete Guide to Install Frappe/ERPNext version 15  in Ubuntu 24.04 LTS
 > 
 > ubuntu 24.04 default mariadb version is 10.11
 
-## Check Before Proceed
+## Installation Process
 
 ### Check Before Installation
     sudo apt-get update
