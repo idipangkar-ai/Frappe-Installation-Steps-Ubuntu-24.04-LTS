@@ -22,7 +22,7 @@ A complete Guide to Install Frappe/ERPNext version 15  in Ubuntu 24.04 LTS
 
 ## Check Before Proceed
 
-### STEP 0
+### Check Before Installation
     sudo apt-get update
     sudo apt-get upgrade
     
